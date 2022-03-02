@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Attioss
-- 👀 I’m interested in back end or maybe front end developer area.
-- 🌱 I’m currently learning phyton, java, sql.
-- 💞️ I’m looking for a job which can test my knowledge.
+- 👋 Hi, I’m @Attioss (Attila Deák), 27 years old.
+- 👀 I’m interested in python engineer, python back end jobs.
 - 📫 How to reach me: attioss13@gmail.com
-- I just want to get a chance to get a appropriate job.
+- My phone number is: +36 30 4897790
+
 <!---
 Attioss/Attioss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
