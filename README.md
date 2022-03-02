@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Attioss (Attila Deák), 27 years old.
+- Python, Django, FLask, PostgreSQL, HTML5, CSS3, Git
 - 👀 I’m interested in python engineer, python back end jobs.
 - 📫 How to reach me: attioss13@gmail.com
 - My phone number is: +36 30 4897790
